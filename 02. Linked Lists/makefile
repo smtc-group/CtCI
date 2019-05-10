@@ -1,3 +1,3 @@
 run:
-	g++ -std=c++14 2.5.cpp
+	g++ -std=c++14 2.8.cpp
 	./a.out
